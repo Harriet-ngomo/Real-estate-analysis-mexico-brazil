@@ -38,39 +38,70 @@ The analysis focuses on providing actionable insights to stakeholders interested
 
 ---
 
-### Key Visualizations
+### Methodology
 
-#### 1. **Scatter Map of Properties in Brazil**
-Displays spatial distribution of properties to examine geographic clustering and urban market concentrations.
+#### **Mexico EDA**
+1. **Location Analysis**  
+   - Visualized the geographic distribution of properties using Plotly’s `scatter_mapbox` plot, centered on Mexico.
 
-![scatter_map](images/scatter_map.png)
+2. **Categorical Analysis**  
+   - Counted listings by `state` to identify the most active real estate regions.
 
-#### 2. **Histogram of Home Prices**
-Shows the distribution of home prices in USD to identify price ranges and market segments.
+3. **Numerical Feature Analysis**  
+   - Computed summary statistics for `area_m2` and `price_usd`.
+   - Visualized price distribution using a histogram.
+   - Used a boxplot to show spread and outliers in property sizes.
 
-![price_histogram](images/price_histogram.png)
+#### **Brazil EDA**
+1. **Location Analysis**  
+   - Created a `scatter_mapbox` plot centered on Brazil to show distribution of real estate listings.
 
-#### 3. **Bar Chart of Mean Home Price by Region (Brazil)**
-Highlights regional disparities in property prices across Brazil.
+2. **Categorical Analysis**  
+   - Analyzed frequency of listings by `state` to determine regional activity.
+   - Grouped data by `region` to compute the **mean home price per region** and visualized it with a bar chart.
 
-![mean_price_region](images/mean_price_region.png)
+3. **Numerical Feature Analysis**  
+   - Used `.describe()` to summarize key statistics for `area_m2` and `price_usd`.
+   - Plotted a histogram to show the distribution of home prices.
+   - Constructed a horizontal boxplot to explore the variation in property sizes.
+
+---
+
+### Visualizations
+
+#### **Mexico**
+
+1. **Location of Properties (Mexico)**  
+   ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/781c1df89bb2e3d3ef184f8f5a763800662d64e9/data/Scatter_map.png)
+
+2. **Price Distribution (Mexico)**  
+   ![Mexico Price Histogram](path/to/mexico_price_hist.png)
+
+3. **Area Distribution (Mexico)**  
+   ![Mexico Boxplot](path/to/mexico_boxplot.png)
+
+#### **Brazil**
+
+1. **Location of Properties (Brazil)**  
+   ![Brazil Map](path/to/brazil_map.png)
+
+2. **Price Distribution (Brazil)**  
+   ![Brazil Price Histogram](path/to/brazil_price_hist.png)
+
+3. **Area Distribution (Brazil)**  
+   ![Brazil Boxplot](path/to/brazil_boxplot.png)
+
+4. **Mean Home Price by Region (Brazil)**  
+   ![Brazil Regional Price Bar Chart](path/to/brazil_region_bar.png)
 
 ---
 
 ## Conclusion
 
-### Summary of Findings
+- **Regional Differences**: Both Mexico and Brazil show significant variation in real estate activity across states and regions. In Brazil, the Southeast region has the highest mean home prices.
+- **Most Active States**: Certain states dominate in listing frequency, reflecting real estate market concentration in urban centers.
+- **Property Sizes and Prices**: Price and area distributions show skewed patterns with clear outliers, indicating a mix of affordable and luxury housing. Brazil exhibits a slightly higher average price compared to Mexico.
 
-1. **Significant Regional Differences**:  
-   The Southeast region in Brazil has the highest mean property prices, indicating a more expensive market compared to other regions like Central-West and North.
-
-2. **Concentration of Properties in Urban Areas**:  
-   Spatial visualizations show dense clustering of listings in major urban centers, especially São Paulo and Rio de Janeiro.
-
-3. **Broad Distribution of Property Prices and Sizes**:  
-   Price and size distributions indicate a diverse housing market with both budget and luxury segments.
-
-These insights can guide stakeholders in investment decisions, housing policy formation, and regional planning initiatives.
-
+These insights can help stakeholders make informed decisions regarding where to invest, develop, or target real estate marketing strategies.
 
 
