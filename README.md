@@ -72,29 +72,44 @@ The analysis focuses on providing actionable insights to stakeholders interested
 #### **Mexico**
 
 1. **Location of Properties (Mexico)**  
+- **Scatter Mapbox Plot:** Shows spatial distribution of properties across Mexican states  
    ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Scatter_map%20mexico.png)
 
 2. **Price Distribution (Mexico)**  
+ - Shows price distribution  in various states
    ![Mexico Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Price%20distribution%20in%20mexico.png)
 
 3. **Area Distribution (Mexico)**  
+- Highlights median prices and outliers in different mexican regions  
    ![Mexico Boxplot](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Home%20price%20distribution.png)
 
 #### **Brazil**
 
 1. **Location of Properties (Brazil)**  
+- **Scatter Mapbox Plot:** 
+- Visualized property locations to assess geographical spread  
    ![Brazil Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20map.png)
 
 2. **Price Distribution (Brazil)**  
+- Shows price distribution in brazil
    ![Brazil Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Home%20Price%20histogram.png)
 
 3. **Area Distribution (Brazil)**  
+- Highlights median prices and outliers in different Brazilian regions  
    ![Brazil Boxplot](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20Box%20plot.png)
 
 4. **Mean Home Price by Region (Brazil)**  
+- Shows the mean price distribution in Brazil
    ![Brazil Regional Price Bar Chart](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20regional%20Bar.png)
 
 ---
+**Recommendations**
+- Target High-Listing States – Focus on states like Mexico City and São Paulo, which have the highest property listings, indicating strong market activity.
+
+- Invest in Affordable Regions – Explore lower-priced regions like Brazil’s Central-West for cost-effective expansion opportunities.
+
+- Adapt to Regional Property Trends – Align housing designs and marketing strategies with regional differences in property sizes and buyer preferences
+
 
 ## Conclusion
 
@@ -103,5 +118,4 @@ The analysis focuses on providing actionable insights to stakeholders interested
 - **Property Sizes and Prices**: Price and area distributions show skewed patterns with clear outliers, indicating a mix of affordable and luxury housing. Brazil exhibits a slightly higher average price compared to Mexico.
 
 These insights can help stakeholders make informed decisions regarding where to invest, develop, or target real estate marketing strategies.
-
 
