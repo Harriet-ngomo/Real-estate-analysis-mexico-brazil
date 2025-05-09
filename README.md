@@ -72,27 +72,27 @@ The analysis focuses on providing actionable insights to stakeholders interested
 #### **Mexico**
 
 1. **Location of Properties (Mexico)**  
-   ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/781c1df89bb2e3d3ef184f8f5a763800662d64e9/data/Scatter_map.png)
+   ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Scatter_map%20mexico.png)
 
 2. **Price Distribution (Mexico)**  
-   ![Mexico Price Histogram](path/to/mexico_price_hist.png)
+   ![Mexico Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Price%20distribution%20in%20mexico.png)
 
 3. **Area Distribution (Mexico)**  
-   ![Mexico Boxplot](path/to/mexico_boxplot.png)
+   ![Mexico Boxplot](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Home%20price%20distribution.png)
 
 #### **Brazil**
 
 1. **Location of Properties (Brazil)**  
-   ![Brazil Map](path/to/brazil_map.png)
+   ![Brazil Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20map.png)
 
 2. **Price Distribution (Brazil)**  
-   ![Brazil Price Histogram](path/to/brazil_price_hist.png)
+   ![Brazil Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Home%20Price%20histogram.png)
 
 3. **Area Distribution (Brazil)**  
-   ![Brazil Boxplot](path/to/brazil_boxplot.png)
+   ![Brazil Boxplot](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20Box%20plot.png)
 
 4. **Mean Home Price by Region (Brazil)**  
-   ![Brazil Regional Price Bar Chart](path/to/brazil_region_bar.png)
+   ![Brazil Regional Price Bar Chart](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20regional%20Bar.png)
 
 ---
 
