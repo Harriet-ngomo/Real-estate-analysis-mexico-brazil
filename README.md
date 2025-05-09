@@ -78,8 +78,10 @@ The analysis focuses on providing actionable insights to stakeholders interested
 ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Scatter_map%20mexico.png)
 
 2. **Price Distribution (Mexico)**
-- Shows price distribution  in various states
+- Shows price distribution in various states
+
 ![Mexico Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Price%20distribution%20in%20mexico.png)
+
 
 3. **Area Distribution (Mexico)**
 - Highlights median prices and outliers in different mexican regions
