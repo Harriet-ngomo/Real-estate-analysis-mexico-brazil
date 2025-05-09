@@ -77,7 +77,7 @@ The analysis focuses on providing actionable insights to stakeholders interested
 ![Mexico Map](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Scatter_map%20mexico.png)
 
 2. **Price Distribution (Mexico)**  
- - Shows price distribution  in various states
+- Shows price distribution  in various states
 ![Mexico Price Histogram](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Mexico/Price%20distribution%20in%20mexico.png)
 
 3. **Area Distribution (Mexico)**  
@@ -102,7 +102,7 @@ The analysis focuses on providing actionable insights to stakeholders interested
 - Highlights median prices and outliers in different Brazilian regions
 ![Brazil Boxplot](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20Box%20plot.png)
 
-4. **Mean Home Price by Region (Brazil)**  
+4. **Mean Home Price by Region (Brazil)**
 - Shows the mean price distribution in Brazil
 ![Brazil Regional Price Bar Chart](https://github.com/Harriet-ngomo/Real-estate-analysis-mexico-brazil/blob/319ca34e5748fcbfe34b71cdbeadaf90a6a611ba/data/images/Brazil/Brazil%20regional%20Bar.png)
 
